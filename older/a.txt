@@ -1,0 +1,190 @@
+﻿Iniciado: 11/07/2014 16:07
+
+/index.htm - mesmo - não transferido
+/index_contato.htm - mesmo - não transferido
+/index_depoimento.htm - mesmo - não transferido
+/index_filelist.xml - mesmo - não transferido
+/index_galeria.htm - mesmo - não transferido
+/index_image1050.jpg - mesmo - não transferido
+/index_image1070.png - mesmo - não transferido
+/index_image1071.png - mesmo - não transferido
+/index_image1072.png - mesmo - não transferido
+/index_image297.png - mesmo - não transferido
+/index_image298.png - mesmo - não transferido
+/index_image299.png - mesmo - não transferido
+/index_image300.png - mesmo - não transferido
+/index_image3001.png - mesmo - não transferido
+/index_image303.gif - mesmo - não transferido
+/index_image3031.png - mesmo - não transferido
+/index_image305.png - mesmo - não transferido
+/index_image306.png - mesmo - não transferido
+/index_image308.png - mesmo - não transferido
+/index_image309.png - mesmo - não transferido
+/index_image311.jpg - mesmo - não transferido
+/index_image3111.jpg - mesmo - não transferido
+/index_image315.png - mesmo - não transferido
+/index_image318.png - mesmo - não transferido
+/index_image319.png - mesmo - não transferido
+/index_image328.png - mesmo - não transferido
+/index_image329.png - mesmo - não transferido
+/index_image331.png - mesmo - não transferido
+/index_image333.png - mesmo - não transferido
+/index_image335.png - mesmo - não transferido
+/index_image338.png - mesmo - não transferido
+/index_image339.png - mesmo - não transferido
+/index_image340.jpg - mesmo - não transferido
+/index_image3401.jpg - mesmo - não transferido
+/index_image342.png - mesmo - não transferido
+/index_image344.png - mesmo - não transferido
+/index_image345.png - mesmo - não transferido
+/index_image3451.png - mesmo - não transferido
+/index_image347.jpg - mesmo - não transferido
+/index_image3471.jpg - mesmo - não transferido
+/index_image349.jpg - mesmo - não transferido
+/index_image3491.jpg - mesmo - não transferido
+/index_image351.jpg - mesmo - não transferido
+/index_image3511.jpg - mesmo - não transferido
+/index_image353.jpg - mesmo - não transferido
+/index_image3531.jpg - mesmo - não transferido
+/index_image355.jpg - mesmo - não transferido
+/index_image367.png - mesmo - não transferido
+/index_image371.png - mesmo - não transferido
+/index_image374.png - mesmo - não transferido
+/index_image377.png - mesmo - não transferido
+/index_image378.png - mesmo - não transferido
+/index_image3781.png - mesmo - não transferido
+/index_image388.png - mesmo - não transferido
+/index_image447.png - mesmo - não transferido
+/index_image450.png - mesmo - não transferido
+/index_image465.png - mesmo - não transferido
+/index_image483.png - mesmo - não transferido
+/index_image484.png - mesmo - não transferido
+/index_image485.png - mesmo - não transferido
+/index_image489.png - mesmo - não transferido
+/index_image493.png - mesmo - não transferido
+/index_image506.png - mesmo - não transferido
+/index_image507.png - mesmo - não transferido
+/index_image512.png - mesmo - não transferido
+/index_image548.png - mesmo - não transferido
+/index_image572.png - mesmo - não transferido
+/index_image597.png - mesmo - não transferido
+/index_image602.png - mesmo - não transferido
+/index_image619.png - mesmo - não transferido
+/index_image621.jpg - mesmo - não transferido
+/index_image632.png - mesmo - não transferido
+/index_image633.png - mesmo - não transferido
+/index_image634.png - mesmo - não transferido
+/index_image635.png - mesmo - não transferido
+/index_image636.png - mesmo - não transferido
+/index_image637.png - mesmo - não transferido
+/index_image654.png - mesmo - não transferido
+/index_image656.png - mesmo - não transferido
+/index_image687.png - mesmo - não transferido
+/index_image697.png - mesmo - não transferido
+/index_image698.png - mesmo - não transferido
+/index_image699.png - mesmo - não transferido
+/index_image700.png - mesmo - não transferido
+/index_image701.png - mesmo - não transferido
+/index_image704.png - mesmo - não transferido
+/index_image705.png - mesmo - não transferido
+/index_image720.jpg - mesmo - não transferido
+/index_image721.png - mesmo - não transferido
+/index_image741.png - mesmo - não transferido
+/index_image743.png - mesmo - não transferido
+/index_image747.png - mesmo - não transferido
+/index_image775.png - mesmo - não transferido
+/index_image785.png - mesmo - não transferido
+/index_image786.png - mesmo - não transferido
+/index_image820.png - mesmo - não transferido
+/index_image821.png - mesmo - não transferido
+/index_image822.jpg - mesmo - não transferido
+/index_image836.png - mesmo - não transferido
+/index_image842.png - mesmo - não transferido
+/index_image843.png - mesmo - não transferido
+/index_image861.png - mesmo - não transferido
+/index_image882.gif - mesmo - não transferido
+/index_image907.png - mesmo - não transferido
+/index_image932.png - mesmo - não transferido
+/index_image933.png - mesmo - não transferido
+/index_Page1004.htm - mesmo - não transferido
+/index_Page471.htm - mesmo - não transferido
+/index_Page753.htm - mesmo - não transferido
+/index_Page859.htm - mesmo - não transferido
+/index_Page982.htm - mesmo - não transferido
+/index_Perfil.htm - mesmo - não transferido
+/Publicação8.pub - mesmo - não transferido
+C:\Users\Fly\Documents\Site Oficial\error_docs\ - pasta criada
+/error_docs/bad_gateway.html - Operação de obtenção bem-sucedida
+/error_docs/bad_request.html - Operação de obtenção bem-sucedida
+/error_docs/forbidden.html - Operação de obtenção bem-sucedida
+/error_docs/internal_server_error.html - Operação de obtenção bem-sucedida
+/error_docs/maintenance.html - Operação de obtenção bem-sucedida
+/error_docs/method_not_allowed.html - Operação de obtenção bem-sucedida
+/error_docs/not_acceptable.html - Operação de obtenção bem-sucedida
+/error_docs/not_found.html - Operação de obtenção bem-sucedida
+/error_docs/not_implemented.html - Operação de obtenção bem-sucedida
+/error_docs/precondition_failed.html - Operação de obtenção bem-sucedida
+/error_docs/proxy_authentication_required.html - Operação de obtenção bem-sucedida
+/error_docs/request-uri_too_long.html - Operação de obtenção bem-sucedida
+/error_docs/unauthorized.html - Operação de obtenção bem-sucedida
+/error_docs/unsupported_media_type.html - Operação de obtenção bem-sucedida
+C:\Users\Fly\Documents\Site Oficial\httpdocs\css\ - pasta criada
+/httpdocs/css/style.css - Operação de obtenção bem-sucedida
+C:\Users\Fly\Documents\Site Oficial\httpdocs\img\apps\ - pasta criada
+/httpdocs/img/apps/container-box.gif - Operação de obtenção bem-sucedida
+/httpdocs/img/apps/pcp-box.gif - Operação de obtenção bem-sucedida
+/httpdocs/img/apps/pd-box.gif - Operação de obtenção bem-sucedida
+/httpdocs/img/apps/pdfwl-box.gif - Operação de obtenção bem-sucedida
+/httpdocs/img/apps/poa-box.gif - Operação de obtenção bem-sucedida
+/httpdocs/img/apps/server-box.gif - Operação de obtenção bem-sucedida
+C:\Users\Fly\Documents\Site Oficial\httpdocs\img\icons\ - pasta criada
+/httpdocs/img/icons/aspdotnet.png - Operação de obtenção bem-sucedida
+/httpdocs/img/icons/fail.png - Operação de obtenção bem-sucedida
+/httpdocs/img/icons/fastcgi.png - Operação de obtenção bem-sucedida
+/httpdocs/img/icons/ok.png - Operação de obtenção bem-sucedida
+/httpdocs/img/icons/perl.png - Operação de obtenção bem-sucedida
+/httpdocs/img/icons/php.png - Operação de obtenção bem-sucedida
+/httpdocs/img/icons/python.png - Operação de obtenção bem-sucedida
+/httpdocs/img/icons/ssi.png - Operação de obtenção bem-sucedida
+/httpdocs/img/btn.png - Operação de obtenção bem-sucedida
+/httpdocs/img/bullet.gif - Operação de obtenção bem-sucedida
+/httpdocs/img/globe.png - Operação de obtenção bem-sucedida
+/httpdocs/img/p-box.png - Operação de obtenção bem-sucedida
+/httpdocs/img/panel-logo.png - Operação de obtenção bem-sucedida
+/httpdocs/img/parallels-logo.png - Operação de obtenção bem-sucedida
+/httpdocs/img/th.png - Operação de obtenção bem-sucedida
+/httpdocs/img/top-bottom.png - Operação de obtenção bem-sucedida
+C:\Users\Fly\Documents\Site Oficial\httpdocs\test\asp\ - pasta criada
+/httpdocs/test/asp/test_mail.asp - Operação de obtenção bem-sucedida
+/httpdocs/test/asp/test_msaccess.asp - Operação de obtenção bem-sucedida
+/httpdocs/test/asp/test_mssql.asp - Operação de obtenção bem-sucedida
+/httpdocs/test/asp/test_mysql.asp - Operação de obtenção bem-sucedida
+C:\Users\Fly\Documents\Site Oficial\httpdocs\test\aspnet\ - pasta criada
+/httpdocs/test/aspnet/test.aspx - Operação de obtenção bem-sucedida
+/httpdocs/test/aspnet/trace_info.aspx - Operação de obtenção bem-sucedida
+C:\Users\Fly\Documents\Site Oficial\httpdocs\test\coldfusion\ - pasta criada
+/httpdocs/test/coldfusion/test.cfm - Operação de obtenção bem-sucedida
+/httpdocs/test/coldfusion/test.html - Operação de obtenção bem-sucedida
+C:\Users\Fly\Documents\Site Oficial\httpdocs\test\perl\ - pasta criada
+/httpdocs/test/perl/test.html - Operação de obtenção bem-sucedida
+/httpdocs/test/perl/test.pl - Operação de obtenção bem-sucedida
+C:\Users\Fly\Documents\Site Oficial\httpdocs\test\php\ - pasta criada
+/httpdocs/test/php/test.html - Operação de obtenção bem-sucedida
+/httpdocs/test/php/test.php - Operação de obtenção bem-sucedida
+C:\Users\Fly\Documents\Site Oficial\httpdocs\test\python\ - pasta criada
+/httpdocs/test/python/test.html - Operação de obtenção bem-sucedida
+/httpdocs/test/python/test.py - Operação de obtenção bem-sucedida
+/httpdocs/favicon.ico - Operação de obtenção bem-sucedida
+/httpdocs/index.html - Operação de obtenção bem-sucedida
+C:\Users\Fly\Documents\Site Oficial\logs\W3SVC335\ - pasta criada
+/logs/W3SVC335/u_extend1.log - erro - Ocorreu Um erro de FTP: não é possível obter u_extend1.log.  Acesso negado. Possivelmente, o arquivo não existe ou há um problema de permissão.  Verifique se você tem a autorização adequada no servidor e se o servidor está configurado corretamente.
+/logs/W3SVC335/web20140711160026773.log - Operação de obtenção bem-sucedida
+/logs/W3SVC335/web_stat_executor.conf - Operação de obtenção bem-sucedida
+
+Atividade de arquivo incompleta. 1 arquivo(s) ou pasta(s) não foi(ram) concluído(s).
+Arquivos atualizados: 55
+Arquivos ignorados: 113
+Arquivos com erros: 1
+/logs/W3SVC335/u_extend1.log
+
+Concluído: 11/07/2014 16:07

@@ -1,0 +1,51 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="763.8" height="76.95" currentTimeline="1" xflVersion="2.4" creatorInfo="Adobe Flash Professional CC" platform="Windows" versionInfo="Saved by Adobe Flash Windows 14.0 build 110" majorVersion="14" buildNumber="110" viewAngle3D="71.7282636939127" sharedLibraryURL="www.flyworld.com.br/itaimbibi" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
+     <media>
+          <DOMBitmapItem name="index_image1292.jpg" itemID="53cfbacc-00000086" sourceExternalFilepath="./LIBRARY/index_image1292.jpg" sourceLastImported="1406049104" externalFileCRC32="4252262268" externalFileSize="3068" allowSmoothing="true" quality="50" href="index_image1292.jpg" bitmapDataHRef="M 3 1406122700.dat" frameRight="3000" frameBottom="860" isJPEG="true"/>
+          <DOMBitmapItem name="index_image1294.jpg" itemID="53cfbacc-0000008a" sourceExternalFilepath="./LIBRARY/index_image1294.jpg" sourceLastImported="1406049104" externalFileCRC32="3283729447" externalFileSize="3093" allowSmoothing="true" quality="50" href="index_image1294.jpg" bitmapDataHRef="M 4 1406122700.dat" frameRight="3000" frameBottom="820" isJPEG="true"/>
+          <DOMBitmapItem name="index_image1296.jpg" itemID="53cfbacc-0000008e" sourceExternalFilepath="./LIBRARY/index_image1296.jpg" sourceLastImported="1406049104" externalFileCRC32="761778641" externalFileSize="2923" allowSmoothing="true" quality="50" href="index_image1296.jpg" bitmapDataHRef="M 5 1406122700.dat" frameRight="2980" frameBottom="820" isJPEG="true"/>
+          <DOMBitmapItem name="index_image1298.jpg" itemID="53cfbacc-0000007e" sourceExternalFilepath="./LIBRARY/index_image1298.jpg" sourceLastImported="1406049104" externalFileCRC32="3973239458" externalFileSize="2992" allowSmoothing="true" quality="50" href="index_image1298.jpg" bitmapDataHRef="M 1 1406122700.dat" frameRight="3000" frameBottom="880" isJPEG="true"/>
+          <DOMBitmapItem name="index_image1307.jpg" itemID="53cfbacc-00000082" sourceExternalFilepath="./LIBRARY/index_image1307.jpg" sourceLastImported="1406049105" externalFileCRC32="2187884224" externalFileSize="3043" allowSmoothing="true" quality="50" href="index_image1307.jpg" bitmapDataHRef="M 2 1406122700.dat" frameRight="2980" frameBottom="880" isJPEG="true"/>
+     </media>
+     <symbols>
+          <Include href="Símbolo 1.xml" itemIcon="0" itemID="53cfbc4e-0000008f" lastModified="1406123086"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Cena 1">
+               <layers>
+                    <DOMLayer name="Camada 1" color="#4F80FF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="index_image1298.jpg">
+                                             <matrix>
+                                                  <Matrix tx="390.4" ty="19"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="index_image1307.jpg">
+                                             <matrix>
+                                                  <Matrix tx="580.45" ty="17"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="index_image1296.jpg">
+                                             <matrix>
+                                                  <Matrix tx="209" ty="17"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMSymbolInstance libraryItemName="Símbolo 1" selected="true" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="31.5" ty="19"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="75" y="21.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

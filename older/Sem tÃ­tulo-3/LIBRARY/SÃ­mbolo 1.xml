@@ -1,0 +1,17 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Símbolo 1" itemID="53cfbc4e-0000008f" linkageExportForAS="true" linkageExportForRS="true" linkageClassName="Símbolo1" linkageURL="www.flyworld.com.br/itaimbibi" symbolType="button" lastModified="1406123086">
+  <timeline>
+    <DOMTimeline name="Símbolo 1">
+      <layers>
+        <DOMLayer name="Camada 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="index_image1292.jpg"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

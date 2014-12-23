@@ -104,7 +104,46 @@
             <div class="clear"></div>	
         </div>        
         <!--//slider-->
-
+                       
+        <!--planning-->
+        <!-- 
+        <div class="wrap planning">
+            <div class="container">
+                <div class="row">
+                    <div class="span3">
+                        <a href="#">
+                        	<span class="img_icon icon1"></span>
+                            <span class="link_title">egestas dolor</span>
+                        	Nunc vel arcu arcu. Nulla mollis feugiat dui id tincidunt. Aenean ac lobortis elit.
+                        </a>
+                    </div>
+                    <div class="span3">
+                        <a href="#">
+                        	<span class="img_icon icon2"></span>
+                            <span class="link_title">lorem ipsum</span>
+                        	Nunc vel arcu arcu. Nulla mollis feugiat dui id tincidunt. Aenean ac lobortis elit.
+                        </a>
+                    </div>
+                    <div class="span3">
+                        <a href="#">
+                        	<span class="img_icon icon3"></span>
+                            <span class="link_title">vestilum eget</span>
+                        	Nunc vel arcu arcu. Nulla mollis feugiat dui id tincidunt. Aenean ac lobortis elit.
+                        </a>
+                    </div>
+                    <div class="span3">
+                        <a href="#">
+                        	<span class="img_icon icon4"></span>
+                            <span class="link_title">nulla feugiat</span>
+                        	Nunc vel arcu arcu. Nulla mollis feugiat dui id tincidunt. Aenean ac lobortis elit.
+                        </a>
+                    </div>                           	
+                </div>
+            </div>
+        </div>
+        -->
+        <!--//planning-->
+        
         <!--Welcome-->
         <div class="wrap block">
             <div class="container welcome_block">
@@ -114,93 +153,161 @@
                 <div class="welcome_line welcome_b"></div>
             </div>
         </div>
-        <!--//Welcome--> 
-
-        <!--press release-->
+        <!--//Welcome-->         
+        
+        <!--featured works-->
+        <!-- 
         <div class="wrap block carousel_block">
-            <div class="container"  style="border-top: 4px #313131 solid">
-                <h2 class="upper">Materias</h2>
-                <div class="row">
+            <div class="container">
+            	<h2 class="upper">featured works</h2>
+            	<div class="row">
                     <div class="span12">
-                        <ul id="mycarousel2" class="jcarousel-skin-tango">
+                        <ul id="mycarousel" class="jcarousel-skin-tango">
                             <li>
-                                <div class="post_carousel">
-                                    <a href="http://flyworld.com.br/materias/exame.pdf" target="new_"><img src="http://flyworld.com.br/images/midia_01.jpg" alt="" />
-                                    <center><div class="title_t">Revista Exame</a></div>
-                                    Franquias até 60 mil</center>
-                                </div>  
+                            	<div class="hover_img">
+                                	<a href="img/featured_works/1.jpg" rel="prettyPhoto[portfolio1]"><img src="img/featured_works/1.jpg" alt="" /><span class="portfolio_zoom1"></span></a>                                    
+                                </div>
                             </li>
-
                             <li>
-                                <div class="post_carousel">
-                                    <a href="http://flyworld.com.br/materias/pegn.pdf" target="new_"><img src="http://flyworld.com.br/images/midia_02.jpg" alt="" />
-                                    <center><div class="title_t">PEGN</a></div>
-                                    Franquias em destaque</center>
-                                </div>  
+                            	<div class="hover_img">
+                                	<a href="img/featured_works/2.jpg" rel="prettyPhoto[portfolio1]"><img src="img/featured_works/2.jpg" alt="" /><span class="portfolio_zoom1"></span></a>                                    
+                                </div>
                             </li>
-
                             <li>
-                                <div class="post_carousel">
-                                    <a href="http://flyworld.com.br/materias/info.pdf" target="new_"><img src="http://flyworld.com.br/images/midia_03.jpg" alt="" />
-                                    <center><div class="title_t">INFO</a></div>
-                                    Franquias em destaque</center>
-                                </div>  
-                            </li>
-
+                                <div class="hover_img">
+                                	<a href="img/featured_works/3.jpg" rel="prettyPhoto[portfolio1]"><img src="img/featured_works/3.jpg" alt="" /><span class="portfolio_zoom1"></span></a>                                    
+                                </div>
+                            </li> 
                             <li>
-                                <div class="post_carousel">
-                                    <a href="http://flyworld.com.br/materias/exame_com.pdf" target="new_"><img src="http://flyworld.com.br/images/midia_04.jpg" alt="" />
-                                    <center><div class="title_t">Exame.com</a></div>
-                                    Franquias para abrir em casa</center>
-                                </div>  
+                                <div class="hover_img">
+                                	<a href="img/featured_works/4.jpg" rel="prettyPhoto[portfolio1]"><img src="img/featured_works/4.jpg" alt="" /><span class="portfolio_zoom1"></span></a>                                    
+                                </div>
                             </li>
-
                             <li>
-                                <div class="post_carousel">
-                                    <a href="http://flyworld.com.br/materias/metropole.pdf" target="new_"><img src="http://flyworld.com.br/images/midia_05.jpg" alt="" />
-                                    <center><div class="title_t">Metrópole</a></div>
-                                    Matéria sobre Franquias</center>
-                                </div>  
+                            	<div class="hover_img">
+                                	<a href="img/featured_works/1.jpg" rel="prettyPhoto[portfolio1]"><img src="img/featured_works/1.jpg" alt="" /><span class="portfolio_zoom1"></span></a>                                    
+                                </div>
                             </li>
-
                             <li>
-                                <div class="post_carousel">
-                                    <a href="http://flyworld.com.br/materias/monde.pdf" target="new_"><img src="http://flyworld.com.br/images/midia_06.jpg" alt="" />
-                                    <center><div class="title_t">MONDE</a></div>
-                                    Case de Sucesso</center>
-                                </div>  
-                            </li>
-
-                            <li>
-                                <div class="post_carousel">
-                                    <a href="http://flyworld.com.br/materias/rgbop.jpg" target="new_"><img src="http://flyworld.com.br/images/midia_07.jpg" alt="" />
-                                    <center><div class="title_t">Revista Franquia</a></div>
-                                    Franquia Destaque</center>
-                                </div>  
-                            </li>
-
-                            <li>
-                                <div class="post_carousel">
-                                    <a href="http://flyworld.com.br/materias/gazeta_online.pdf" target="new_"><img src="http://flyworld.com.br/images/midia_08.jpg" alt="" />
-                                    <center><div class="title_t">Gazeta Online</a></div>
-                                    Franquias de retorno rápido</center>
-                                </div>  
-                            </li>
-
-                            <li>
-                                <div class="post_carousel">
-                                    <a href="http://flyworld.com.br/materias/varejista.pdf" target="new_"><img src="http://flyworld.com.br/images/midia_09.jpg" alt="" />
-                                    <center><div class="title_t">Varejista.com.br</a></div>
-                                    Franquias de retorno rápido</center>
-                                </div>  
-                            </li>
-
-                        </ul>                        
+                            	<div class="hover_img">
+                                	<a href="img/featured_works/2.jpg" rel="prettyPhoto[portfolio1]"><img src="img/featured_works/2.jpg" alt="" /><span class="portfolio_zoom1"></span></a>                                    
+                                </div>
+                            </li>                                                       
+                        </ul>                         
                     </div>                
                 </div>                
             </div>
-        </div>        
-        <!--//press release --> 
+        </div> -->        
+        <!--//featured works-->
+        
+        <!--Latest news-->
+        <div class="wrap block">
+        	<div class="container">
+        		<div class="row news_block">
+        			<div class="span12">
+                    	<h2 class="title">Bem Vindo!!</h2>
+                        <p>                       
+                        É com enorme satisfação que recebo a sua visita e espero que você possa conhecer um pouco das minhas trajetórias profissionais.<br>
+                        <br>
+                        Sou empresário do mundo do franchising. Com experiência de mais de 30 anos no turismo, iniciei minha carreira na TransBrasil Linhas Aéreas no final do anos 70.
+                        Sou um apaixonado pela área comercial e  minhas estratégias foram decisivas para que as  franquias se desenvolvessem com  sucesso em todo Brasil.<br>
+                        <br>                         
+                        Unindo a  paixão pelo Turismo com a vontade de inovar, fiz com que a FLYWORLD se tornasse a primeira microfranquia de turismo do país, mostrando que o baixo investimento e o rápido retorno podem ser fator de sucesso. Participo ativamente nos treinamentos internos da empresa, transmitindo todo o  Know how aos  franqueados.<br>
+                        <br>                         
+                        A nossa marca FLYWORLD já é ocnsiderada pleo mercado de turismo como um case de sucesso , experiência e relacionamento favorecendo toda  rede FLYWORLD.<br>
+                        <br>                         
+                        A PRATICA DO ESPORTE  JUDO, NA VIDA REAL DOS NEGÓCIOS.<br>
+                        <br>                         
+                        Estratégia, Espírito de equipe, foco, superação, alcance de metas. Foi assim que  vivenciei minha maior paixão: O Judô, este fantástico esporte olímpico,  que  me permitiu superar os obstáculos na vida e me ajudou nas trajetória dos negócios.<br> 
+                        <br>
+                        O Judô, para surpresa de muitos, não é um sistema de luta, mas sim um sistema educativo que tem como finalidade formar pessoas de bom caráter, utilizando técnicas de combate como forma de aprendizagem para a grande luta da vida. A minha especialização no Judô me levou a conhecer melhor a obra de Sensei Jigoro Kano, Fundador da modalidade. A palavra Ju Do significa "O caminho de saber ceder", uma filosofia que nos permite compreender, de forma clara, a doutrina de vida que está por detrás deste Desporto Olímpico. Ao longo do meu percurso, tenho efetuado um balanço das minhas vivências e tentado identificar o meu conceito de educação e eventuais lacunas no nosso processo educativo<br>
+                        <br>                         
+                        Busco manter meu slogan em toda a  rede de franquias:   “O seu amigo de Viagens”, pois acredito plenamente que a fidelização só se assegura com uma grande amizade e o excelente atendimento. FLYWORLD VIAGENS – www.flyworld.com.br
+
+                        </p>
+                    </div> 
+                    <div class="span12" style="border-top: 4px #313131 solid">
+                    	<h2 class="title">Novidades</h2>
+                        <ul id="newscarousel" class="jcarousel-skin-tango">
+                            
+                            
+                            <li>
+                                <div class="news_date">25 SET<span>2014</span></div>
+                                <div class="news_t">
+                                    <a href="http://flyworld.com.br/materias/exame.pdf" target="_blank">Revista Exame Online</a>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="news_date">18 SET<span>2014</span></div>
+                                <div class="news_t">
+                                    <a href="http://flyworld.com.br/materias/monde.pdf" target="_blank">Case Sucesso: Monde</a>
+                                </div>
+                            </li>
+                            
+                            <li>
+                                <div class="news_date">25 AGO<span>2014</span></div>
+                                <div class="news_t">
+                                    <a href="http://flyworld.com.br/materias/gazeta_online.pdf" target="_blank">Gazeta Online</a>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="news_date">17 AGO<span>2014</span></div>
+                                <div class="news_t">
+                                    <a href="http://flyworld.com.br/materias/metropole.pdf" target="_blank">Revista Metrópole</a>
+                                </div>
+                            </li>
+                            <li>          
+                                <div class="news_date">04 AGO<span>2014</span></div>
+                                <div class="news_t">
+                                    <a href="http://flyworld.com.br/materias/exame_com.pdf" target="_blank">Exame.com</a>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="news_date">04 AGO<span>2014</span></div>
+                                <div class="news_t">
+                                    <a href="http://flyworld.com.br/materias/info.pdf" target="_blank">Revista INFO Online</a>
+                                </div>
+                            </li>
+                            <li>          
+                                <div class="news_date">04 AGO<span>2014</span></div>
+                                <div class="news_t">
+                                    <a href="http://flyworld.com.br/materias/varejista.pdf" target="_blank">Varejista Online</a>
+                                </div>
+                            </li>
+                            <li>
+                            	<div class="news_date">21 julho<span>2014</span></div>
+                                <div class="news_t"><a href="http://flyworld.com.br/materias/rgbop.jpg">Matéria da revista Meu Próprio Negócio.</a></div>
+                            </li>
+                            <li>
+                                <div class="news_date">25 OUT<span>2014</span></div>
+                                <div class="news_t">
+                                    <a href="http://flyworld.com.br/materias/pegn.pdf" target="_blank">Revista Exame Online</a>
+                                </div>
+                            </li>
+                            
+                            <!-- 
+                            <li>
+                            	<div class="news_date">15 apr<span>2019</span></div>
+                                <div class="news_t"><a href="#">Matéria do Jornal Transbrasil de 1987</a></div>
+                                <div class="news">Posted by <a href="#">Anna Smith</a>  /  In <a href="#">City</a><br/>Tags: <a href="#">eget</a>, <a href="#">mauris</a></div>
+                                <div class="news_info">Tristique tincidunt cursus sed, ornare ncidunt eque a tristique. Phasellus porttitor mollis tortor etoq vestibulum. Quisque non lacus tortor, quis cumsan nibh. Lorem ipsum dolor sit amet, consectetur icing elit. Nullam pulvinarteses lorem sed dui euismod eget. <a href="#">Read more...</a></div>
+                                <div class="clear"></div>
+                            </li>
+
+                            <li>
+                            	<div class="news_date">05 apr<span>2019</span></div>
+                                <div class="news_t"><a href="#">eget &amp; massa viviamu marius mas</a></div>
+                                <div class="news">Posted by <a href="#">Anna Smith</a>  /  In <a href="#">City</a><br/>Tags: <a href="#">eget</a>, <a href="#">mauris</a></div>
+                                <div class="news_info">Cursus sed, aliquet nec odio. Integer ornare tincidunt neque a tristique. Phasellus porttitor millis tortor etoq vestibulum. Quisque ont lacus toirtor uis accumsan nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ulvinarteses em sed. <a href="#">Read more...</a></div>
+                                <div class="clear"></div>
+                            </li>
+                            -->
+                         </ul> 
+                    </div>       		
+            	</div>
+        	</div>
+        </div>
+        <!--Latest news-->
         
         <!--latest posts-->
         <div class="wrap block carousel_block">
